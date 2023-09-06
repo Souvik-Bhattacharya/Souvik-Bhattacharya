@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Souvik-Bhattacharya
 - 👀 I’m interested in ... web development & CP
-- 📫 How to reach me ... https://www.linkedin.com/in/souvik-bhattacharya-747832253/
+- 📫 How to reach me ... https://www.linkedin.com/in/souvik-bhattacharya763/
 
 <!---
 Souvik-Bhattacharya/Souvik-Bhattacharya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
