@@ -45,9 +45,9 @@ You can click the Preview link to take a look at your changes.
 <div align='left'>
 
 ### 📊GitHub Stats:
-<img width="38%" src="https://github-readme-stats.vercel.app/api?username=Souvik-Bhattacharya&show_icons=true&include_all_commits=true&theme=dark">
-<img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=Souvik-Bhattacharya&theme=dark&background=000000"/>
-<img height="30%" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Bhattacharya&layout=compact&theme=vision-friendly-dark"/>
+<img width="38%" src="https://github-readme-stats.vercel.app/api?username=Souvik-Bhattacharya&show_icons=true&include_all_commits=true&theme=light">
+<img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=Souvik-Bhattacharya&theme=light"/>
+<img height="30%" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Bhattacharya&layout=compact&theme=vision-friendly-light"/>
 </div>
 <div align='left'>
 
