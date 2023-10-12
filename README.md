@@ -18,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently **learning Data Structures and Algorithms**.
 - 👀 I'm **exploring more into Web Development field**.
 - 👯 I’m looking to **collaborate on OpenSource Projects**.
+- ✨ Portfolio website: ***https://souvik-portfolio-pi.vercel.app/***.
 </div>
 <div align='left'>
 
