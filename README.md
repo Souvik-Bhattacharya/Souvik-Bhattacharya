@@ -14,19 +14,19 @@ You can click the Preview link to take a look at your changes.
 <div align='left'>
   
 ### 🙋‍♂️About Me 
-- 🔭 I’m a **Web Developer and Programmer**.
+- 🔭 I’m a **Full-Stack Developer**.
 - 🌱 I’m currently **learning Data Structures and Algorithms**.
 - 👀 I'm **exploring more into Web Development field**.
 - 👯 I’m looking to **collaborate on OpenSource Projects**.
 - ✨ Portfolio website: ***https://souvik-portfolio-pi.vercel.app/***.
 </div>
 <div align='left'>
-
+  
   ### 📫Reach Me:
   <a href="https://www.linkedin.com/in/souvik-bhattacharya763" target="blank"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  </div>
 <div align='left'>
-<div align='left'>
-
+  
   ### 🚀Languages and Tools:
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -51,15 +51,16 @@ You can click the Preview link to take a look at your changes.
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  </div>
 <div align='left'>
-
+  
 ### 📊GitHub Stats:
-<img width="38%" src="https://github-readme-stats.vercel.app/api?username=Souvik-Bhattacharya&show_icons=true&include_all_commits=true&theme=light">
-<img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=Souvik-Bhattacharya&theme=light"/>
-<img height="30%" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Bhattacharya&layout=compact&theme=vision-friendly-light"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=Souvik-Bhattacharya&show_icons=true&include_all_commits=true&theme=dracula)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Souvik-Bhattacharya&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Bhattacharya&layout=compact&theme=dracula)
 </div>
 <div align='left'>
-
+  
 ### ⚡GitHub Trophies:
-<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Souvik-Bhattacharya&theme=onedark&no-frame=true&no-bg=true&theme=discord">
+![Trophies](https://github-trophies.vercel.app/?username=Souvik-Bhattacharya&theme=dracula)
 </div>
