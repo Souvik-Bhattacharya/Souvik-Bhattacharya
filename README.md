@@ -79,9 +79,9 @@ You can click the Preview link to take a look at your changes.
 <div align='left'>
   
 ### 📊GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=Souvik-Bhattacharya&show_icons=true&include_all_commits=true&theme=dracula)
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Souvik-Bhattacharya&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Bhattacharya&layout=compact&theme=dracula)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=Souvik-Bhattacharya&show_icons=true&include_all_commits=true&theme=dracula)
+![Streaks](https://github-readme-stats-fast.vercel.app/api/streak/?username=Souvik-Bhattacharya&theme=dracula)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Souvik-Bhattacharya&layout=compact&theme=dracula)
 
 </div>
 
